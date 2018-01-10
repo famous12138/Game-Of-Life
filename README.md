@@ -1,2 +1,2 @@
 # Game-Of-Life
-Java实现生命游戏
+Java实现康威生命游戏
